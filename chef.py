@@ -31,7 +31,7 @@ st.title("Ingredient matcher")
 
 st.text("""This is a small project in which I analysed the relations between ingredients based on allrecipes.com dump containing over 250,000 recipes. \
     The relation between two ingredients is based on the lift value between them. Simply put, lift is the ratio between the the real observed proportion of two ingrerdients together in a recipe \
-    and the expected probability of observing them in a recipe. A high lift indicates that two ingredients match well together."""
+    and the expected probability of observing them in a recipe. A high lift indicates that two ingredients match well together.""")
     
 st.text()
 
