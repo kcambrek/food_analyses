@@ -33,7 +33,7 @@ st.text("""This is a small project in which I analysed the relations between ing
     The relation between two ingredients is based on the lift value between them. Simply put, lift is the ratio between the the real observed proportion of two ingrerdients together in a recipe \
     and the expected probability of observing them in a recipe. A high lift indicates that two ingredients match well together.""")
     
-st.text()
+st.text("")
 
 st.text("""Below you can select multiple ingredients and play around with the minimum lift value for the network. Interesting is to see, are the quite tasty relations that have been found \
     and how ingredients are connected to eachother with in intermediate ingredient.""")
