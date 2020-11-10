@@ -6,7 +6,7 @@ This repository contains several text analyses excercises and experiments on onl
 
 The chef.py has a simple interface which allows you to explore the relations between different ingredients based on 250,000 online recipes from https://www.allrecipes.com .
 
-For example, the followning image shows how "parsley" and "shrimp" are related:
+For example, the following image shows how "parsley" and "shrimp" are related:
 ![alt text](https://github.com/kcambrek/food_analyses/blob/main/parsley_shrimp.png "parsley_shrimp")
 
 
